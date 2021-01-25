@@ -7,8 +7,8 @@
 			<div class="col-xl-9 mx-auto">
 				<div class="cta-inner text-center rounded">
 					<h2 class="section-heading mb-5">
-						<span class="section-heading-upper">Come On In</span>
-						<span class="section-heading-lower">We're Open</span>
+						<span class="section-heading-upper">ENTRA</span>
+						<span class="section-heading-lower">Estem oberts</span>
 					</h2>
 					<ul class="list-unstyled list-hours mb-5 text-left mx-auto">
 						<li class="list-unstyled-item list-hours-item d-flex">
@@ -42,14 +42,14 @@
 					</ul>
 					<p class="address mb-5">
 						<em>
-							<strong>1116 Orchard Street</strong>
+							<strong>Av. Granvia #LHospitalet 22</strong>
 							<br>
-							Golden Valley, Minnesota
+							Hospitalet, Barcelona
 						</em>
 					</p>
 					<p class="mb-0">
 						<small>
-							<em>Call Anytime</em>
+							<em>Truca en qualsevol moment</em>
 						</small>
 						<br>
 						(317) 585-8468
@@ -68,17 +68,14 @@
 				<div class="col-xl-9 col-lg-10 mx-auto">
 					<div class="bg-faded rounded p-5">
 						<h2 class="section-heading mb-4">
-							<span class="section-heading-upper">Strong Coffee, Strong Roots</span>
-							<span class="section-heading-lower">About Our Cafe</span>
+							<span class="section-heading-upper">LA NOSTRA PROMESA</span>
+							<span class="section-heading-lower">A TU</span>
 						</h2>
-						<p>Founded in 1987 by the Hernandez brothers, our establishment has been serving up rich coffee
-							sourced from artisan farmers in various regions of South and Central America. We are
-							dedicated to travelling the world, finding the best coffee, and bringing back to you here in
-							our cafe.</p>
-						<p class="mb-0">We guarantee that you will fall in
-							<em>lust</em>
-							with our decadent blends the moment you walk inside until you finish your last sip. Join us
-							for your daily routine, an outing with friends, or simply just to enjoy some alone time.</p>
+						<p class="mb-0">COMAREA Cuina L’Hocal</p>
+						<p class="mb-0">* Cuina L'Hocal [👩🏻‍🍳Cuinem producte local amb L'Hove ❤️]</p>
+						<p class="mb-0">* Producte fresc i temporada</p>
+						<p class="mb-0">🗣 Av. Granvia #LHospitalet 22 [Hotel EASY]</p>
+						<p class="mb-0">#ComareaLHocal</p>
 					</div>
 				</div>
 			</div>
@@ -87,10 +84,6 @@
 </section>
 
 <?php include "components/footer.php"; ?>
-
-<!-- Bootstrap core JavaScript -->
-<script src="vendor/jquery/jquery.min.js"></script>
-<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 <!-- Script to highlight the active date in the hours list -->
 <script>

@@ -22,8 +22,4 @@
 </section>
 
 <?php include "components/footer.php"; ?>
-
-<script src="vendor/jquery/jquery.min.js"></script>
-<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
 <?php include "components/close.php"; ?>
