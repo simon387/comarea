@@ -12,40 +12,40 @@
 					</h2>
 					<ul class="list-unstyled list-hours mb-5 text-left mx-auto">
 						<li class="list-unstyled-item list-hours-item d-flex">
-							Sunday
-							<span class="ml-auto">Closed</span>
+							Diumenge
+							<span class="ml-auto">de 8:00 AM a 11:00 PM</span>
 						</li>
 						<li class="list-unstyled-item list-hours-item d-flex">
-							Monday
-							<span class="ml-auto">7:00 AM to 8:00 PM</span>
+							Dilluns
+							<span class="ml-auto">de 8:00 AM a 11:00 PM</span>
 						</li>
 						<li class="list-unstyled-item list-hours-item d-flex">
-							Tuesday
-							<span class="ml-auto">7:00 AM to 8:00 PM</span>
+							Dimarts
+							<span class="ml-auto">de 8:00 AM a 11:00 PM</span>
 						</li>
 						<li class="list-unstyled-item list-hours-item d-flex">
-							Wednesday
-							<span class="ml-auto">7:00 AM to 8:00 PM</span>
+							Dimecres
+							<span class="ml-auto">de 8:00 AM a 11:00 PM</span>
 						</li>
 						<li class="list-unstyled-item list-hours-item d-flex">
-							Thursday
-							<span class="ml-auto">7:00 AM to 8:00 PM</span>
+							Dijous
+							<span class="ml-auto">de 8:00 AM a 11:00 PM</span>
 						</li>
 						<li class="list-unstyled-item list-hours-item d-flex">
-							Friday
-							<span class="ml-auto">7:00 AM to 8:00 PM</span>
+							Divendres
+							<span class="ml-auto">de 8:00 AM a 11:00 PM</span>
 						</li>
 						<li class="list-unstyled-item list-hours-item d-flex">
-							Saturday
-							<span class="ml-auto">9:00 AM to 5:00 PM</span>
+							Dissabte
+							<span class="ml-auto">de 8:00 AM a 11:00 PM</span>
 						</li>
 					</ul>
 					<p class="address mb-5">
-						<em>
+						<i>
 							<strong>Av. Granvia #LHospitalet 22</strong>
 							<br>
 							Hospitalet, Barcelona
-						</em>
+						</i>
 					</p>
 					<p class="mb-0">
 						<small>
