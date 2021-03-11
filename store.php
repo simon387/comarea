@@ -67,15 +67,7 @@
 			<div class="row">
 				<div class="col-xl-9 col-lg-10 mx-auto">
 					<div class="bg-faded rounded p-5">
-						<h2 class="section-heading mb-4">
-							<span class="section-heading-upper">LA NOSTRA PROMESA</span>
-							<span class="section-heading-lower">A TU</span>
-						</h2>
-						<p class="mb-0">COMAREA Cuina L’Hocal</p>
-						<p class="mb-0">* Cuina L'Hocal [👩🏻‍🍳Cuinem producte local amb L'Hove ❤️]</p>
-						<p class="mb-0">* Producte fresc i temporada</p>
-						<p class="mb-0">🗣 Av. Granvia #LHospitalet 22 [Hotel EASY]</p>
-						<p class="mb-0">#ComareaLHocal</p>
+						<?php include "components/info.php"; ?>
 					</div>
 				</div>
 			</div>
