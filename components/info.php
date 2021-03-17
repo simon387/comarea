@@ -7,5 +7,6 @@
 <p class="mb-0">* Producte fresc i temporada</p>
 <p class="mb-0">🗣 Av. Granvia #LHospitalet 22 [Hotel EASY]</p>
 <p class="mb-0">#ComareaLHocal</p>
+<p class="mb-0">+34 681 04 82 68</p>
 <!--<a href="#" class="fa fa-facebook"></a>-->
 <a href="https://www.instagram.com/comarea_lhocal/" class="fa fa-instagram"></a>

@@ -52,7 +52,7 @@
 							<em>Truca en qualsevol moment</em>
 						</small>
 						<br>
-						(317) 585-8468
+						+34 681 04 82 68
 					</p>
 				</div>
 			</div>
