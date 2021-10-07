@@ -3,6 +3,7 @@ $active1 = "";
 $active2 = "";
 $active3 = "";
 $active4 = "";
+$active5 = "";
 $active = "active";
 switch ($page) {
 	case 1:
@@ -16,6 +17,9 @@ switch ($page) {
 		break;
 	case 4:
 		$active4 = $active;
+		break;
+	case 5:
+		$active5 = $active;
 		break;
 	default:
 		$active1 = $active;
@@ -42,6 +46,9 @@ switch ($page) {
 				</li>
 				<li class="nav-item <?php echo $active4 ?> px-lg-4">
 					<a class="nav-link text-uppercase text-expanded" href="store.php">Store</a>
+				</li>
+				<li class="nav-item <?php echo $active5 ?> px-lg-4">
+					<a class="nav-link text-uppercase text-expanded" href="carta.php">Carta</a>
 				</li>
 			</ul>
 		</div>
