@@ -1,2 +1,2 @@
-sudo rm -rf /var/www/html/comarea/
-sudo cp -R ../comarea/ /var/www/html/
+rm -rf /var/www/html/comarea
+cp -R ../comarea/ /var/www/html/
