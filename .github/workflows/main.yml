@@ -14,3 +14,13 @@ jobs:
           server: ftp.comarealhocal.com
           username: comarealhocal.com
           password: ${{ secrets.ftp_password }}
+          exclude:
+            - **/.git*
+            - **/.git*/**
+            - **/node_modules/**
+            - TODO.txt
+            - deploy_localhost.sh
+            - LICENSE
+            - minimal_deploy.sh
+            - README.md
+            - TODO.md
