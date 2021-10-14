@@ -1,62 +1,47 @@
 <?php include "components/header.php"; ?>
-<?php $page=5; include "components/navigation.php"; ?>
+<?php $page = 5;
+include "components/navigation.php"; ?>
 
 <section class="page-section">
 	<div class="container">
-		<div class="product-item">
-			<div class="product-item-title d-flex">
-				<div class="bg-faded p-5 d-flex ml-auto rounded">
-					<h2 class="section-heading mb-0">
-						<span class="section-heading-upper">Carta</span>
+		<div class="accordion" id="accordionExample">
+			<div class="card">
+				<div class="card-header" id="headingOne">
+					<h2 class="mb-0">
+						<button class="btn btn-block text-center collapsed btn-carta" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">Carta</button>
 					</h2>
 				</div>
-			</div>
-			<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/carta_1.jpg" alt="">
-		</div>
-	</div>
-</section>
-
-<section class="page-section">
-	<div class="container">
-		<div class="product-item">
-			<div class="product-item-title d-flex">
-				<div class="bg-faded p-5 d-flex ml-auto rounded">
-					<h2 class="section-heading mb-0">
-						<span class="section-heading-upper">Carta</span>
-					</h2>
+				<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+					<div class="card-body">
+						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/carta_1.jpg" alt="">
+						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/carta_2.jpg" alt="">
+					</div>
 				</div>
 			</div>
-			<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/carta_2.jpg" alt="">
-		</div>
-	</div>
-</section>
-
-<section class="page-section">
-	<div class="container">
-		<div class="product-item">
-			<div class="product-item-title d-flex">
-				<div class="bg-faded p-5 d-flex mr-auto rounded">
-					<h2 class="section-heading mb-0">
-						<span class="section-heading-upper">Desayunos</span>
+			<div class="card">
+				<div class="card-header" id="headingTwo">
+					<h2 class="mb-0">
+						<button class="btn btn-block text-center collapsed btn-carta" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Desayunos</button>
 					</h2>
 				</div>
-			</div>
-			<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/desa.jpg" alt="">
-		</div>
-	</div>
-</section>
-
-<section class="page-section">
-	<div class="container">
-		<div class="product-item">
-			<div class="product-item-title d-flex">
-				<div class="bg-faded p-5 d-flex mr-auto rounded">
-					<h2 class="section-heading mb-0">
-						<span class="section-heading-upper">Platillos de temporada</span>
-					</h2>
+				<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+					<div class="card-body">
+						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/desa.jpg" alt="">
+					</div>
 				</div>
 			</div>
-			<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/platillos.jpg" alt="">
+			<div class="card">
+				<div class="card-header" id="headingThree">
+					<h2 class="mb-0">
+						<button class="btn btn-block text-center collapsed btn-carta" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Platillos de temporada</button>
+					</h2>
+				</div>
+				<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+					<div class="card-body">
+						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/cartas/platillos.jpg" alt="">
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
