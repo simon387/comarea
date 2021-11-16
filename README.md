@@ -14,5 +14,6 @@ sudo systemctl restart httpd.service
 
 ## Useful Link
 + https://startbootstrap.com/theme/business-casual
-+ https://www.qr-code-generator.com/guides/how-to-create-a-qr-code/
++ https://me-qr.com/?bannerid=6410359824&campaignid=12946005747&adgroupid=124742103034&feeditemid=&targetid=kwd-751612614193&loc_interest_ms=1008686&loc_physical_ms=1005424&matchtype=b&network=g&device=c&devicemodel=&gclid=Cj0KCQiAys2MBhDOARIsAFf1D1c_HUCdD_ye46AzCnNU_BSBusCXvo69HoVNGHKbUZnO8HPozIpOFLAaAk9sEALw_wcB&ifmobile:[value]=&ifnotmobile:[value]=[value]&ifsearch:[value]=[value]&ifcontent:[value]=&creative=518804501440&keyword=creazione%20qr%20code%20gratis&placement=&target=&param1=&param2=&adposition=&gclid=Cj0KCQiAys2MBhDOARIsAFf1D1c_HUCdD_ye46AzCnNU_BSBusCXvo69HoVNGHKbUZnO8HPozIpOFLAaAk9sEALw_wcB
 + https://pdftoimage.com
++ https://www.hostinger.es/cart-hosting/product/hosting-hostinger-premium?position=undefined
